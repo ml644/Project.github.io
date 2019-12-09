@@ -32,7 +32,7 @@ nav {
 }
 
 nav p a {
-  font-family: Calibri;
+  font-family: Candara;
   color: black;
   font-size: 24px;
   line-height: 55px;
@@ -55,10 +55,10 @@ nav ul li {
 
 nav ul li a {
   display: block;
-  font-family: Calibri;
+  font-family: Candara;
   color: black;
   font-size: 14px;
-  padding: 22px 14px;
+  padding: 22px 50px;
   text-decoration: none;
 }
 
